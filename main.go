@@ -35,7 +35,7 @@ func handlePage(w http.ResponseWriter, r *http.Request) {
 	const page = `<html>
 <head></head>
 <body>
-	<p> Hello from Docker! I'm a Go server. </p>
+	<p> Hello from Docker! I'm a newer Go server. </p>
 </body>
 </html>
 `
