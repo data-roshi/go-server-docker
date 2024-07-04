@@ -1,0 +1,1 @@
+## Just some random go web app to play with docker
