@@ -2,3 +2,5 @@
 
 # Ignore the executable file
 go-server-docker
+
+.env
